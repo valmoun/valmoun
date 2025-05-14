@@ -1,14 +1,14 @@
-# <div align="center">Valentin Mounier</div>
+# <div align="center">Hi there! I'm Valentin Mounier 👋</div>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/valentin-mounier/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn">
     </a>
 </div>
 
 ## About Me
 
-👋 Hello! I'm Valentin, an engineering trainee at SUEZ Consulting where I work on hydraulic modeling and data analysis. I'm pursuing a dual degree in Civil Engineering (INSA Rennes) and Governance with a focus on maritime affairs (Sciences Po Rennes).
+I'm Valentin, an engineering trainee at SUEZ Consulting where I work on hydraulic modeling and data analysis. I'm pursuing a dual degree in Civil Engineering (INSA Rennes) and Governance with a focus on maritime affairs (Sciences Po Rennes).
 
 My professional journey includes experience at Egis Water & Maritime analyzing coastal governance in West Africa and environmental project management with Good Karma Projects in Spain. I'm passionate about coastal resilience and developing sustainable solutions for environmental challenges.
 
