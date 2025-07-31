@@ -21,9 +21,3 @@ My professional journey includes experience at Egis Water & Maritime analyzing c
 ## Interests
 
 When not coding or studying, you'll find me enjoying water sports (sailing, surfing), climbing rocks, or playing music. I've served as co-president of the university sailing club and have volunteered for various educational and environmental initiatives.
-
----
-
-<div align="center">
-    <i>Looking for opportunities in coastal resilience and environmental engineering</i>
-</div>
